@@ -41,6 +41,34 @@
     "chatbots",
     "slack"
   ],
-  "author": "ben@xoxco.com",
-  "license": "MIT"
+  "author": {
+    "name": "ben@xoxco.com"
+  },
+  "license": "MIT",
+  "gitHead": "7a2c61c142137a9b3e6bcf5e1dd8ac9e9b2c0ed6",
+  "_id": "botkit@0.2.2",
+  "_shasum": "65c84d9c927ad4e267ade3a8db5b1f8ce6b9c320",
+  "_from": "botkit@>=0.2.2 <0.3.0",
+  "_npmVersion": "2.0.2",
+  "_nodeVersion": "0.10.21",
+  "_npmUser": {
+    "name": "xoxco",
+    "email": "ben@xoxco.com"
+  },
+  "dist": {
+    "shasum": "65c84d9c927ad4e267ade3a8db5b1f8ce6b9c320",
+    "tarball": "https://registry.npmjs.org/botkit/-/botkit-0.2.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "xoxco",
+      "email": "ben@xoxco.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/botkit-0.2.2.tgz_1466528757455_0.896294642239809"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/botkit/-/botkit-0.2.2.tgz"
 }
